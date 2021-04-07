@@ -1,6 +1,6 @@
 # Machine Learning
 
-Work from IDS 705 - Machine Learning
+Work from IDS 705 - Machine Learning - with Kyle Bradbury
 
 Topics covered in each assignment:
 
